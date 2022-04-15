@@ -9,6 +9,9 @@
     }
   ],
   "dependencies": {
+    "jp.keijiro.vfxgraphassets": "1.0.6",
+    "jp.keijiro.shadergraphassets": "1.0.0",
+    "jp.keijiro.kino.aqua": "1.0.3",
     "jp.keijiro.kino.post-processing": "2.1.15",
     "jp.keijiro.klak.motion": "1.0.1",
     "jp.keijiro.klak.timeline.procedural-motion": "1.0.1",
