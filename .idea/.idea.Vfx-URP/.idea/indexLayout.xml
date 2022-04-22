@@ -62,17 +62,21 @@
       <Path>Library/PackageCache/com.unity.ugui@1.0.0</Path>
       <Path>Library/PackageCache/com.unity.visualeffectgraph@12.1.5</Path>
       <Path>Library/PackageCache/com.unity.visualscripting@1.7.6</Path>
+      <Path>Library/PackageCache/jp.keijiro.kino.aqua@1.0.3</Path>
       <Path>Library/PackageCache/jp.keijiro.kino.post-processing@2.1.15</Path>
       <Path>Library/PackageCache/jp.keijiro.klak.motion@1.0.1</Path>
       <Path>Library/PackageCache/jp.keijiro.klak.timeline.procedural-motion@1.0.1</Path>
       <Path>Library/PackageCache/jp.keijiro.metamesh@0.0.8</Path>
       <Path>Library/PackageCache/jp.keijiro.noiseshader@1.0.0</Path>
       <Path>Library/PackageCache/jp.keijiro.pugrad@1.0.0</Path>
+      <Path>Library/PackageCache/jp.keijiro.shadergraphassets@1.0.0</Path>
       <Path>Library/PackageCache/jp.keijiro.test-assets@1.0.1</Path>
+      <Path>Library/PackageCache/jp.keijiro.vfxgraphassets@1.0.6</Path>
       <Path>Packages</Path>
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
+      <Path>.git</Path>
       <Path>.idea</Path>
       <Path>Library</Path>
       <Path>Logs</Path>

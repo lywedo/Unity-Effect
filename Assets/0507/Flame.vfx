@@ -111,7 +111,7 @@ MonoBehaviour:
   categories: []
   uiBounds:
     serializedVersion: 2
-    x: -533
+    x: -532
     y: -654
     width: 1898
     height: 2796
@@ -5656,7 +5656,7 @@ MonoBehaviour:
   - {fileID: 8926484042661614809}
   - {fileID: 8926484042661614810}
   m_OutputSlots: []
-  m_Disabled: 0
+  m_Disabled: 1
   attribute: color
   Composition: 2
   AlphaComposition: 0
@@ -7074,7 +7074,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"r":0.9987322092056274,"g":1.0,"b":0.0,"a":1.0}'
+      m_SerializableObject: '{"r":0.0,"g":1.0,"b":0.39954376220703127,"a":1.0}'
     m_Space: 2147483647
   m_Property:
     name: _Color2
