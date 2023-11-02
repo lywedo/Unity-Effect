@@ -1,5 +1,6 @@
 # Unity-Effect
 Unity effects library based on URP
+With Unity-Effect, you can take your Unity projects to the next level by effortlessly adding stunning visual elements that captivate your audience. Whether you're a game developer, designer, or creative enthusiast, this project empowers you to create immersive and visually impressive experiences.
 
 ## Effect Demo
 
